@@ -7,7 +7,7 @@ I use this GitHub-Account mainly for teaching.
 - [PlanDev](https://github.com/trexxak/PlanDevBasics) _(Work in progress.)_
   - Discover planning tools for your next solution!
 - [WebDev](https://github.com/trexxak/WebDevBasics) _(Work in progress.)_
-  - Learn HTML, CSS and JS and conquer the web! 
+  - Learn HTML, CSS and JS before conquering the web! 
 - [Python](https://github.com/trexxak/PythonBasics) _(Prior programming knowledge required.)_
   - Easy to learn! 
 
