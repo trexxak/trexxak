@@ -5,7 +5,7 @@ I use this GitHub-Account mainly for teaching.
 
 ### Learning Repos (german):  
 - [PlanDev](https://github.com/trexxak/PlanDevBasics) _(Work in progress.)_
-  - Display your programs visually.
+  - Discover planning tools for your next solution!
 - [WebDev](https://github.com/trexxak/WebDevBasics) _(Work in progress.)_
   - Learn HTML, CSS and JS and conquer the web! 
 - [Python](https://github.com/trexxak/PythonBasics) _(Prior programming knowledge required.)_
