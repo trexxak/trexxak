@@ -1,7 +1,7 @@
 ## Hi! I'm Markus...
 
 ...and I do a few 'interesting' things that involve at least one computer.  
-I mainly use this GitHub-Account for teaching.  
+I use this GitHub-Account mainly for teaching.  
 
 ### Learning Repos (german):  
 - [PlanDev](https://github.com/trexxak/PlanDevBasics) _(Work in progress.)_
