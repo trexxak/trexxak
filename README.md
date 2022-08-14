@@ -8,7 +8,7 @@ I use this GitHub-Account mainly for teaching.
   - Display your programs visually.
 - [WebDev](https://github.com/trexxak/WebDevBasics) _(Work in progress.)_
   - Learn HTML, CSS and JS and conquer the web! 
-- [Python](https://github.com/trexxak/PythonBasics) _(Prior programming knowladge required.)_
+- [Python](https://github.com/trexxak/PythonBasics) _(Prior programming knowledge required.)_
   - Easy to learn! 
 
 ### Learning Projects (german):
