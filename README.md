@@ -9,7 +9,7 @@ I use this GitHub-Account mainly for teaching.
 - [WebDev](https://github.com/trexxak/WebDevBasics) _(Work in progress.)_
   - Learn HTML, CSS and JS before conquering the web! 
 - [Python](https://github.com/trexxak/PythonBasics) _(Prior programming knowledge required.)_
-  - Easy to learn! 
+  - Easy to learn, fun to master! 
 
 ### Learning Projects (german):
 - [Prompts](https://github.com/trexxak/Prompts) 
