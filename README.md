@@ -1,4 +1,4 @@
-## Hi! I'm Markus...
+<!--## Hi! I'm Markus...
 
 ...and I do a few 'interesting' things that involve at least one computer.  
 I use this GitHub-Account mainly for teaching.  
@@ -18,7 +18,7 @@ I use this GitHub-Account mainly for teaching.
 ### Game Prototypes
 - [SnakeSudoku](https://github.com/trexxak/PythonSnakeSudokuPrototype) _(Written in Python and pygame within ~3 days; Graphics: Blender and Gimp; Audio: beepbox.co)_
   - Experimental game that combines the principle game mechanics of Snake and Sudoku.
-<!--
+
 ### Just for YOU!
 - [My itch.io](https://trexxak.itch.io)
   - Some games I worked on. 
